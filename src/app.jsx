@@ -98,3 +98,7 @@ class App extends Component {
 }
 
 export default App;
+
+// * github 배포시 package.json에 추가한다.
+// * netlify 배포시 package.json에서 삭제한다.
+// "homepage": "https://strawberryoolongtea.github.io/habit-tracker"
